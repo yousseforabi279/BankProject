@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\bankproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\repositories\\unityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\repositories\\unityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\contracts\\iunityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\contracts\\iunityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\dbcontext\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\dbcontext\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\dbcontext\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\dbcontext\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\repositories\\jwttokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\repositories\\jwttokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\core\\identity\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\core\\identity\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\core\\identity\\responses\\register\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\core\\identity\\responses\\register\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\contracts\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\contracts\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\contracts\\iidentityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\contracts\\iidentityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\core\\identity\\commands\\identitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\core\\identity\\commands\\identitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\core\\identity\\commands\\register\\registercommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\core\\identity\\commands\\register\\registercommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\contracts\\igeneralrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\contracts\\igeneralrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\bank.presistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\bank.presistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\repositories\\generalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\repositories\\generalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\bank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\bank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64407CCC-26F7-4E62-96C1-2FC715AD7786}|bankproject\\bankproject.csproj|c:\\users\\user\\source\\repos\\bankproject\\bankproject\\bankproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64407CCC-26F7-4E62-96C1-2FC715AD7786}|bankproject\\bankproject.csproj|solutionrelative:bankproject\\bankproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64407CCC-26F7-4E62-96C1-2FC715AD7786}|bankproject\\bankproject.csproj|c:\\users\\user\\source\\repos\\bankproject\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64407CCC-26F7-4E62-96C1-2FC715AD7786}|bankproject\\bankproject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.presistence\\di\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC5104-6176-4D20-B51C-C68280D15308}|Bank.Presistence\\Bank.Presistence.csproj|solutionrelative:bank.presistence\\di\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\disposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\disposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.domain\\bank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E9142E7-C2D9-42FF-858C-0B978FE09612}|bank.Domain\\bank.Domain.csproj|solutionrelative:bank.domain\\bank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|c:\\users\\user\\source\\repos\\bankproject\\bank.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F6024-D0CB-4FC5-AA9C-7272B9898F78}|Bank.Application\\Bank.Application.csproj|solutionrelative:bank.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bank.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnityOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Repositories\\UnityOfWork.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\Repositories\\UnityOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Repositories\\UnityOfWork.cs",
+              "RelativeToolTip": "Bank.Presistence\\Repositories\\UnityOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T12:33:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Repositories\\JwtTokenServices.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\Repositories\\JwtTokenServices.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Repositories\\JwtTokenServices.cs",
+              "RelativeToolTip": "Bank.Presistence\\Repositories\\JwtTokenServices.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:17:31.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\contracts\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IJwtTokenService.cs",
+              "RelativeToolTip": "Bank.Application\\contracts\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:16:22.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:14:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "registercommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\commands\\Register\\registercommand.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\Core\\Identity\\commands\\Register\\registercommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\commands\\Register\\registercommand.cs",
+              "RelativeToolTip": "Bank.Application\\Core\\Identity\\commands\\Register\\registercommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:08:36.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IIdentityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IIdentityRepo.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\contracts\\IIdentityRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IIdentityRepo.cs",
+              "RelativeToolTip": "Bank.Application\\contracts\\IIdentityRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:58:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnityOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IUnityOfWork.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\contracts\\IUnityOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IUnityOfWork.cs",
+              "RelativeToolTip": "Bank.Application\\contracts\\IUnityOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:58:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appcontext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Dbcontext\\Appcontext.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\Dbcontext\\Appcontext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Dbcontext\\Appcontext.cs",
+              "RelativeToolTip": "Bank.Presistence\\Dbcontext\\Appcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:27:08.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:16:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appuser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Dbcontext\\Appuser.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\Dbcontext\\Appuser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Dbcontext\\Appuser.cs",
+              "RelativeToolTip": "Bank.Presistence\\Dbcontext\\Appuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:38:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\Responses\\Register\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\Core\\Identity\\Responses\\Register\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\Responses\\Register\\RegisterResponse.cs",
+              "RelativeToolTip": "Bank.Application\\Core\\Identity\\Responses\\Register\\RegisterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:47:47.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\commands\\IdentityCommandHandler.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\Core\\Identity\\commands\\IdentityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\commands\\IdentityCommandHandler.cs",
+              "RelativeToolTip": "Bank.Application\\Core\\Identity\\commands\\IdentityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:58:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "registercommandvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\commands\\Register\\registercommandvalidation.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\Core\\Identity\\commands\\Register\\registercommandvalidation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Core\\Identity\\commands\\Register\\registercommandvalidation.cs",
+              "RelativeToolTip": "Bank.Application\\Core\\Identity\\commands\\Register\\registercommandvalidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:08:37.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGeneralRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IGeneralRepo.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\contracts\\IGeneralRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\contracts\\IGeneralRepo.cs",
+              "RelativeToolTip": "Bank.Application\\contracts\\IGeneralRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:58:22.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GeneralRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Repositories\\GeneralRepo.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\Repositories\\GeneralRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Repositories\\GeneralRepo.cs",
+              "RelativeToolTip": "Bank.Presistence\\Repositories\\GeneralRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:58:22.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bankproject.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bankproject\\bankproject.csproj",
+              "RelativeDocumentMoniker": "bankproject\\bankproject.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bankproject\\bankproject.csproj",
+              "RelativeToolTip": "bankproject\\bankproject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-12T14:58:22.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bankproject\\Program.cs",
+              "RelativeDocumentMoniker": "bankproject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bankproject\\Program.cs",
+              "RelativeToolTip": "bankproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:58:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\DI\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\DI\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\DI\\IdentityConfig.cs",
+              "RelativeToolTip": "Bank.Presistence\\DI\\IdentityConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T23:05:09.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:18:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Loan.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\Loan.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Disposition.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Disposition.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\Disposition.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Disposition.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\Disposition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\Card.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\Card.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\AccountType.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Entities\\AccountType.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Entities\\AccountType.cs",
+              "RelativeToolTip": "bank.Domain\\Entities\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:42.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\DI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Bank.Presistence\\DI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\DI\\DependencyInjection.cs",
+              "RelativeToolTip": "Bank.Presistence\\DI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:15:26.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bank.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Bank.Application.csproj",
+              "RelativeDocumentMoniker": "Bank.Application\\Bank.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Bank.Application.csproj",
+              "RelativeToolTip": "Bank.Application\\Bank.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-11T22:20:49.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bank.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\bank.Domain.csproj",
+              "RelativeDocumentMoniker": "bank.Domain\\bank.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\bank.Domain.csproj",
+              "RelativeToolTip": "bank.Domain\\bank.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-11T22:14:12.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bank.Presistence.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Bank.Presistence.csproj",
+              "RelativeDocumentMoniker": "Bank.Presistence\\Bank.Presistence.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Presistence\\Bank.Presistence.csproj",
+              "RelativeToolTip": "Bank.Presistence\\Bank.Presistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-11T22:15:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Bank.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\Bank.Application\\Class1.cs",
+              "RelativeToolTip": "Bank.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:14:32.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "bank.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\bankproject\\bank.Domain\\Class1.cs",
+              "RelativeToolTip": "bank.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:14:08.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
