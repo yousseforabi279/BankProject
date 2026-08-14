@@ -25,6 +25,9 @@ namespace Bank.Presistence.DI
             services.AddIdentityConfiguration();
             services.AddScoped(typeof(IGeneralRepo<>),
                    typeof(GeneralRepo<>));
+            services.AddScoped<IIdentityRepo, identityRepo>();
+            services.AddScoped<IJwtTokenService, JwtTokenServices>();
+            services.AddScoped<IUnityOfWork, UnityOfWork>();
             return services;
         }
 

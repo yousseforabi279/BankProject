@@ -10,11 +10,10 @@ using System.Threading.Tasks;
 
 namespace Bank.Presistence.Dbcontext
 {
-    public class Appcontext :IdentityDbContext<Appuser>,IUnityOfWork
+    public class Appcontext :IdentityDbContext<Appuser>
     {
 
-        public Appcontext(
-        DbContextOptions<Appcontext> options)
+        public Appcontext(DbContextOptions<Appcontext> options)
         : base(options)
         {
         }
@@ -32,6 +31,11 @@ namespace Bank.Presistence.Dbcontext
                 .HasOne<Appuser>()
                 .WithOne()
                 .HasForeignKey<Customer>(x => x.UserId);
+                    modelBuilder.Entity<RefreshToken>()
+                  .HasOne<Appuser>()
+                  .WithMany(x => x.RefreshTokens)
+                  .HasForeignKey(x => x.UserId)
+                  .OnDelete(DeleteBehavior.Cascade);
 
         }
 
@@ -45,6 +49,5 @@ namespace Bank.Presistence.Dbcontext
         public DbSet<Card> Cards { get; set; }
         public DbSet<RefreshToken> RefreshTokens { get; set; }
 
-        public IJwtTokenService JwtTokenService => throw new NotImplementedException();
     }
 }

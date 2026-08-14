@@ -14,5 +14,7 @@ namespace Bank.Presistence.Dbcontext
         public ICollection<Account> Accounts { get;  } = new List<Account>();
         public ICollection<Disposition> Dispositions { get; }
         = new List<Disposition>();
+        public ICollection<RefreshToken> RefreshTokens { get; }
+       = new List<RefreshToken>();
     }
 }

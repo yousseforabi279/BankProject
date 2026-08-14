@@ -1,4 +1,5 @@
 ﻿using Bank.Application.contracts;
+using Bank.Presistence.Dbcontext;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,13 +10,22 @@ namespace Bank.Presistence.Repositories
 {
     public class UnityOfWork : IUnityOfWork
     {
-        public IJwtTokenService JwtTokenService => throw new NotImplementedException();
-
-        public IIdentityRepo identityRepo => throw new NotImplementedException();
+        private readonly Appcontext _context;
+        public IJwtTokenService JwtTokenService { get; }
+        public IIdentityRepo identityRepo { get; }
+        public UnityOfWork(
+            Appcontext context,
+            IJwtTokenService jwtTokenService,
+            IIdentityRepo identityRepo)
+        {
+            _context = context;
+            JwtTokenService = jwtTokenService;
+            this.identityRepo = identityRepo;
+        }
 
         public Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            return _context.SaveChangesAsync(cancellationToken);
         }
     }
 }

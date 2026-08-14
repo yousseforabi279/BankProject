@@ -11,6 +11,7 @@ namespace Bank.Application.contracts
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
         IJwtTokenService JwtTokenService { get; }
         IIdentityRepo identityRepo { get; }
+
         
 
     }
